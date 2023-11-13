@@ -41,7 +41,6 @@ background-size: 100% 100%;">
                 </div>
                 <span class="MuiTouchRipple-root css-w0pj6f"></span>
             </a>
-            </a>
         </center>
         <center class=" RowLink" style="position: relative;">
             <a class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-fullWidth css-1ympjr3" tabindex="0" href="VID-20231113-WA0059.mp4" aria-label="Spotify" rel="nofollow noopener" style="border-radius: 8px; background-color: rgb(180, 79, 7); color: rgb(255, 255, 255); font-family: &quot;Oxygen Mono&quot;, sans-serif; text-transform: none; box-shadow: none; font-size: 15px; min-height: 65px; margin: 16px 0px; border: 2px solid rgba(255, 255, 255, 0); display: flex; padding-left: 0px; padding-right: 0px;">
